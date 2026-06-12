@@ -12,7 +12,7 @@
     <img alt="vision" src="https://img.shields.io/badge/Vision-Stereo%20Depth-4C6EF5?style=flat-square"/>
 </p>
 
-TlaliNantli2026-Flight-Computer es la computadora de vuelo del equipo TlaliNantli para el concurso CanSat 2026.
+TlaliNantli2026 Flight Computer es la computadora de vuelo del equipo TlaliNantli para el concurso CanSat 2026.
 Su objetivo es adquirir telemetría y visión estéreo, empaquetarla en un protocolo
 ligero y transmitirla en tiempo real durante el vuelo.
 
