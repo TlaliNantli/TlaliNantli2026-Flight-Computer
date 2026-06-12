@@ -71,7 +71,7 @@ de despliegue de carga útil.
 
 - **Raspberry Pi Zero 2 W**: unidad principal de procesamiento.
 - **BMP180**: sensor de temperatura, presión y altitud relativa.
-- **MPU6050**: sensor de aceleración y velocidad angular.
+- **MPU6050 IMU**: sensor de aceleración y velocidad angular.
 - **Cámara estéreo**: adquisición de imagen para reconstrucción de profundidad.
 - **Módulo LoRa SX126x**: transmisión de telemetría e imagen de largo alcance.
 - **Electroimán**: mecanismo de liberación del autogyro controlado por GPIO.
